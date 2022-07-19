@@ -13,3 +13,18 @@ C:\Users\Алексей\Desktop\задание в семинаре 7 и реше
 C:\Users\Алексей\Desktop\задание в семинаре 7 и решение\example07\obj\Debug\net6.0\example07.pdb
 C:\Users\Алексей\Desktop\задание в семинаре 7 и решение\example07\obj\Debug\net6.0\example07.genruntimeconfig.cache
 C:\Users\Алексей\Desktop\задание в семинаре 7 и решение\example07\obj\Debug\net6.0\ref\example07.dll
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\bin\Debug\net6.0\example07.exe
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\bin\Debug\net6.0\example07.deps.json
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\bin\Debug\net6.0\example07.runtimeconfig.json
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\bin\Debug\net6.0\example07.dll
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\bin\Debug\net6.0\example07.pdb
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.dll
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\refint\example07.dll
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.pdb
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\example07.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\домашнее задание к уроку 7\example07\obj\Debug\net6.0\ref\example07.dll
